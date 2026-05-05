@@ -1,3 +1,4 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gmf6Y7TE)
 # Übung: Teamarbeit simulieren
 
@@ -12,4 +13,8 @@
 ## :pushpin: Aufgabenblatt:
 
 ![U1_Teamarbeit_simulieren](https://github.com/LW-Lewin/-bung-Teamarbeit-simulieren/assets/118429221/9a91f99b-28d8-4576-acd9-f4810d8b42f0)
+
 AAAAAAAAAAAAAAHHHHHHHHHHHH
+
+ICHHHH WILLLLLLLLLLLLLLL COMMITTEEEEEAAAAANNNNNNN
+
